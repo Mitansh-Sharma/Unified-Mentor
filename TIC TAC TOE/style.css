@@ -1,0 +1,42 @@
+body{
+    background-color: #1f2e69;
+}
+.Nav a{
+    color: red;
+}
+.Nav h2{
+    text-align: center;
+}
+.Nav{
+    background:#a2a8d3;
+    font-family: "Calibri";
+}
+
+#player{
+    text-align: center;
+    font-size: 8vh;
+}
+.container{
+    height: 70vh;
+    display: flex;
+   
+    align-items: center;
+    justify-content: center;
+}
+.game{
+    text-align: center;
+    height: 60vh;
+    width: 60vh;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+}
+.box{
+    height: 20vh;
+    width: 20vh;
+    border-radius: 1rem;
+    font-size: 8vh;
+    color: red;
+}
